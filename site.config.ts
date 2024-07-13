@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Satan',
   domain: 'chaodit.com',
-  author: 'djjj',
+  author: 'dinkjun',
 
   // open graph metadata (optional)
   description: 'My path in life.',
